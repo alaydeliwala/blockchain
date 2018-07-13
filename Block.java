@@ -9,7 +9,7 @@ public class Block {
     public String hash;
 
     /** The hash of the previous block */
-    private String previousHash;
+    public String previousHash;
 
     /** The information held in this block */
     private String data;
