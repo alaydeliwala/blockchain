@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="gson_lib" systemlibrary="false">
+        <archive path="/Users/adeliwal/Downloads/gson-2.6.2.jar"/>
+    </library>
+</eclipse-userlibraries>
